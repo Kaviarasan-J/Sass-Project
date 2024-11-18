@@ -1,4 +1,4 @@
-# ![SASS Logo](https://sass-lang.com/assets/img/logos/logo.svg) SASS Webpage Project
+# <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="SASS Logo" width="30" height="20" /> SASS Webpage Project
 
 This project is a fully responsive webpage built using **HTML**, **CSS**, and **SASS**. Designed to enhance styling skills with **SASS**, the project focuses on modular and scalable CSS architecture by utilizing advanced features such as variables, mixins, nesting, and partials.
 
